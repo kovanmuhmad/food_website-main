@@ -1,2 +1,2 @@
 # food_website
-https://kovanmuhmad.github.io/food_website-main/
+https://foodwebsite-main.vercel.app/
